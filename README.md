@@ -1,4 +1,4 @@
-`![Metube app](Metube.png)
+![Metube app](Metube.png)
 
 # YouTube Clone using react
 
