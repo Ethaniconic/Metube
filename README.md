@@ -70,4 +70,4 @@ Metube
     package.json
 ```
 
-> Live Preview here: [YouTube clone](https://metube-v3.vercel.app/)
+> Live Preview here: [Metube-v3](https://metube-v3.vercel.app/)
