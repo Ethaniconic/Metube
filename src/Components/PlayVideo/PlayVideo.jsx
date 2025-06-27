@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useEffect, useState } from "react";
 import "./PlayVideo.css";
 // import video1 from "../../assets/video.mp4";
